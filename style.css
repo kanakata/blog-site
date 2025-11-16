@@ -1622,7 +1622,6 @@ header .slider .item{
 header .slider .item .content{
     top: 60%;
     width: 100%;
-    border: 1px solid red;
 }
 header .slider .item .content h2{
     font-size: 20px;
@@ -2484,4 +2483,5 @@ footer h2{
 
 
 /* admindash css */
+
 
